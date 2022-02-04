@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/bin/Debug/netcoreapp3.1/MehodOverloading.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/bin/Debug/netcoreapp3.1/MehodOverloading.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/bin/Debug/netcoreapp3.1/MehodOverloading.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/bin/Debug/netcoreapp3.1/MehodOverloading.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/bin/Debug/netcoreapp3.1/MehodOverloading.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MehodOverloading/MehodOverloading/obj/Debug/netcoreapp3.1/MehodOverloading.genruntimeconfig.cache
